@@ -228,4 +228,6 @@ return [
 
     ],
 
+    'faker_locale' => 'zh_CN', // 新增一个配置项
+
 ];
